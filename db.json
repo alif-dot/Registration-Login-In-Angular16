@@ -1,0 +1,77 @@
+{
+  "user": [
+    {
+      "id": "admin",
+      "name": "Admin User",
+      "password": "Admin123!",
+      "email": "admin@email.com",
+      "gender": "male",
+      "role": "admin",
+      "isactive": true
+    },
+    {
+      "id": "test1",
+      "name": "Admin User",
+      "password": "Admin123!",
+      "email": "admin@email.com",
+      "gender": "male",
+      "role": "staff",
+      "isactive": true
+    },
+    {
+      "id": "test2",
+      "name": "Admin User",
+      "password": "Admin123!",
+      "email": "admin@email.com",
+      "gender": "male",
+      "role": "quality",
+      "isactive": false
+    },
+    {
+      "id": "test3",
+      "name": "Admin User",
+      "password": "Admin123!",
+      "email": "admin@email.com",
+      "gender": "male",
+      "role": "",
+      "isactive": false
+    },
+    {
+      "id": "test4",
+      "name": "Admin User",
+      "password": "Admin123!",
+      "email": "admin@email.com",
+      "gender": "male",
+      "role": "staff",
+      "isactive": false
+    },
+    {
+      "id": "test5",
+      "name": "Admin User",
+      "password": "Admin123!",
+      "email": "admin@email.com",
+      "gender": "male",
+      "role": "staff",
+      "isactive": false
+    },
+    {
+      "id": "ycewolf",
+      "name": "Leonard",
+      "password": "Leonard123!",
+      "email": "leonard@email.com",
+      "gender": "male",
+      "role": "staff",
+      "isactive": true
+    }
+  ],
+  "role": [
+    {
+      "id": "staff",
+      "name": "Staff"
+    },
+    {
+      "id": "quality",
+      "name": "Quality"
+    }
+  ]
+}

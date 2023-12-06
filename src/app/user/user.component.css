@@ -1,0 +1,11 @@
+table {
+  width: 100%;
+}
+
+.textIcon mat-icon {
+  display: inline;
+}
+
+ mat-icon {
+  font-size: 16px;
+}
